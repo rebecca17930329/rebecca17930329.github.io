@@ -1,10 +1,9 @@
-body {color:purple; 
+body {color:lightblue; 
 	TEXT-ALIGN: center;
 	MARGIN-RIGHT: auto;
 	MARGIN-LEFT: auto;
+	background-image:url(http://h.hiphotos.baidu.com/zhidao/pic/item/b3119313b07eca803adb0a4a932397dda0448344.jpg);
 	height:14px;
-	background:gray;
-	width:14px;
 	vertical-align:middle;
-	line-height:200px;
-}
+	line-height:14px;
+	font-size:120px;
