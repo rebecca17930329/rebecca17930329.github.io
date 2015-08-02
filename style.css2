@@ -1,9 +1,9 @@
 body {
 	color:lightblue; 
-	TEXT-ALIGN: center-50px;
+	TEXT-ALIGN: left;
 	MARGIN-RIGHT: auto;
 	MARGIN-LEFT: auto;
-	background-image:url(http://h.hiphotos.baidu.com/zhidao/pic/item/b3119313b07eca803adb0a4a932397dda0448344.jpg);
+	background-image:url();
 
 	vertical-align:middle;
 
