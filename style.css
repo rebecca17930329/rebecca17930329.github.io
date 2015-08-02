@@ -1,11 +1,13 @@
+a:hover{ color:red;font-size:45px;}
+
+
 body {
 	color:lightblue; 
 	TEXT-ALIGN: center
 	;
 	MARGIN-RIGHT: auto;
 	MARGIN-LEFT: auto;
-	background-image:url(http://image.zcool.com.cn/2013/0/31/m_1383805247798.jpg);
-
+	background:darkblue;
 	vertical-align:middle;
 
 	font-size:60px
