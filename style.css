@@ -1,5 +1,5 @@
 body {
-	color:pink; 
+	color:lightblue; 
 	TEXT-ALIGN: left;
 	MARGIN-RIGHT: auto;
 	MARGIN-LEFT: auto;
@@ -7,7 +7,7 @@ body {
 
 	vertical-align:middle;
 
-	font-size:60px;
+	font-size:60px
 }
 
 #ipad_pic {
